@@ -38,3 +38,11 @@ a {
 a:hover {
     color: #d3a3a3;
 }
+
+.resume-image {
+    max-width: 300px;
+    height: auto;
+    margin: 1rem 0;
+    border: 1px solid #141010;
+    border-radius: 8px;
+}
