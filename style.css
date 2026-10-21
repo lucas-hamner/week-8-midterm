@@ -1,0 +1,40 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #fdf8f8;
+    color: #242424;
+    line-height: 1.6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1, h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    color: #141010;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-bottom: 2px solid #b90c23;
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+p, li {
+    font-size: 1rem;
+}
+
+a {
+    color: #b90c23;
+}
+
+a:hover {
+    color: #d3a3a3;
+}
